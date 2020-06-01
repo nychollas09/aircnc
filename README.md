@@ -38,11 +38,11 @@ yarn start
 
 Nichollas Falcão dos Santos – nychollas2013@hotmail.com
 
-[https://github.com/nychollas09/ecoleta](https://github.com/nychollas09/ecoleta)
+[https://github.com/nychollas09/aircnc](https://github.com/nychollas09/aircnc)
 
 ## Contribuição
 
-1. Fork it (<https://github.com/nychollas09/ecoleta>)
+1. Fork it (<https://github.com/nychollas09/aircnc>)
 2. Crie a sua feature branch (`git checkout -b feature/fooBar`)
 3. Commit suas mudanças (`git commit -am 'Add some fooBar'`)
 4. Push para a branch (`git push origin feature/fooBar`)
